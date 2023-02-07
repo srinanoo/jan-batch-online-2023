@@ -1,0 +1,430 @@
+NOTES: 19-01-2023
+
+- WhatsApp Group Official
+  - all official communication
+  - sharing all your project and assignment
+  - ask/clarify all your related doubts
+  - maintain discipline
+  - understand each one's privacy
+  - just put a message, mentioning your name (after the session)
+
+- Batch Timing
+  - Tuesday's and Thursday's
+    - 7-9pm
+
+- Assignments (every other day)
+  - concept based
+
+- Projects (weekly)
+  - multiple/same concept put together on whole
+    - template creation
+    - frontend webpage/website
+    - backend project
+
+  - HTML/CSS + Bootstrap + JavaScript
+    - 5-7 weeks
+      - at least 1 template
+        - 5-7 project
+  - Backend
+    - 5-7 weeks
+      - 5 project (react)
+      - 1 - 2 project
+
+- Assignment #1
+  - Coder
+  - Programmer
+  - Developer
+    - Who/What is a coder?
+      - Saranya: Write the code
+      - Manoj: Write the code
+      - Muthu: Structure / Giving Instructions
+      - Vikram: Write the code
+      - Yaseen: human to machine language converter, makes sure the code is understandable by computer
+      - Yoosuf: using a language to write code
+    - Who/What is a programmer?
+      - Saranya: Prepares logic/framework
+      - Manoj: creates a language
+      - Muthu: group of codes
+      - Vikram: giving set of instructions to run the programm to run the specific functionality
+      - Yaseen: write and create software applications
+      - Yoosuf: process code written by coder
+    - Who/What is a developer?
+      - Saranya: gathering requirement, decider, logic, code, testing, maintenance
+      - Manoj: use language to develop a software/application
+      - Muthu: creates program
+      - Vikram: manage and debug a code (specific technology)
+      - Yaseen: creates web and web application
+      - Yoosuf: who can do coding and programming 
+
+    - Are these the same or different? Coder / Programmer / Developer?
+      - if same? how/why?
+        - Saranya: same person at different stages
+        - Manoj: same person at different stages
+        - Muthu: same person at different stages
+        - Vikram: same person at different stages
+        - Yaseen: same person at different stages
+        - Yoosuf: same person at different stages
+      - if different? how/why?
+
+    - If different?
+      - how long (time) will it take to become a coder or programmer or developer?
+        - Saranya: coder (6 months to 2 yrs), programmer (6 months), developer (3+ yrs)
+        - Manoj: coder (3 to 6 months), programmer (10 months to 1 yr), developer (1+ yr)
+        - Muthu: coder + programmer + developer (max. 6 months)
+        - Vikram: coder + programmer + developer (3 to 6 months)
+        - Yaseen: coder + programmer + developer (6 months to 1 yr)
+        - Yoosuf: coder (6 months to 1 yr), programmer (6 months to 1 yr), developer (6 months to 1 yr)
+
+    - What you have came here for?
+      - Saranya: Programmer, Coder, Developer
+      - Manoj: Programmer, Coder, Developer
+      - Muthu: Developer (Coder -> Programmer -> Developer)
+      - Vikram: Coder -> Programmer -> Developer
+      - Yaseen: Coder -> Programmer -> Developer
+      - Yoosuf: Coder (Developer) -> Programmer (P/T L) -> Developer (PM)
+
+
+    - Developer (45mins - 1month)
+    - Programmer
+    - Coder
+
+    
+    - Project Requirement
+      - Construction of a Classroom
+        - 7:31pm
+          - Phase 1 (21 mins) - Developed! (Developer!)
+            - Pre-site Process (Site, Soil, Location, Water, overall survey, feasibility)
+            - Planning (Project / Architectural / Interior / Exterior)
+            - Budget
+            - Resources (Architects, Labourers, Supervisors, Suppliers)
+            - Approval (Budget, Real Estate, Plan, Soil, Client, EB, Water Supply, Sewage, Raw Materials, Contractors)
+            - Raw Materials 
+              (Bricks, Cement, Sand, Steel, Iron, Tiles, Pipes, Wires, Paint, EB, Water, Windows, Doors, Electronics, Fittings, 
+              Chairs, Black/White/Smart Board, Benches, A/c, Projectors, Fans, Lights, etc.,)
+            - Transportation
+            - Registration / License
+        - 7:52pm
+
+        - 7:59pm
+          - Phase 2 (Step by Step) - Pseudo Code (Step by Step Instructions in a Human understandable language) - Programmer
+            - Management
+            - Pre-site Process (Site, Soil, Location, EB, Water, Sewage, overall survey, feasibility)
+            - Planning (Project / Architectural / Interior / Exterior / Budget / Resources / Raw Materials / Suppliers / Transportation)
+            - Registration / License
+            - Approval (Budget, Real Estate, Plan, Soil, Client, EB, Water Supply, Sewage, Raw Materials, Contractors)
+            - Resources (Architects, Labourers, Supervisors, Suppliers)
+            - Raw Materials 
+              (Bricks, Cement, Sand, Steel, Iron, Tiles, Pipes, Wires, Paint, EB, Water, Windows, Doors, Electronics, Fittings, 
+              Chairs, Black/White/Smart Board, Benches, A/c, Projectors, Fans, Lights, etc.,)
+            - Registration / License
+            - Start the Construction
+            - QA
+            - Deployment / Delivery
+        - 8:13pm
+
+        - Phase 3 - Coder (1day - 2yrs)
+          - Implementation
+
+
+- SDLC - Software Development Life Cycle (L&T)
+  - Various stages in software development
+    - Analysis (Requirement Gathering)
+    - Design (Planning)
+    - Implementation (Work Process)
+    - Testing / QA
+    - Deployment (Delivery)
+
+    - Maintenance
+
+    - Client says a project (100%)
+      - Analysis            - 20%   20%   15%   20%   20%   10%   70%
+      - Design              - 20%   20%   30%   10%   50%   50%   
+      - Implementation      - 20%   30%   30%   10%   10%   20%   20%
+      - Testing / QA        - 20%   15%   15%   50%   10%   10%   5%
+      - Deployment          - 20%   15%   10%   10%   10%   10%   5%
+
+- Frontend
+  - HTML/CSS/JavaScript/Bootstrap/React/Node/Express
+    - Editor
+      - Notepad
+      - Notepad++
+      (Basic Editor - Text Based)
+        - code every single word
+    - IDE (Integrated Development Environment)
+      - Visual Studio Code
+        Download: https://code.visualstudio.com/
+      - Sublime Editor
+    - Browser
+      - Edge or Firefox or Chrome or Brave or Opera
+
+
+NOTES: 31-01-2023
+
+Web Development
+  - Languages?
+    - Markup (placeholder)
+      - HTML
+      - XML
+    - Scripting
+      - Client side
+        - JavaScript
+        - ReactJs
+      - Server side
+        - ASP
+        - JSP
+        - ReactJs (server kind of environment)
+        - NodeJs
+    - Programming
+      - Java
+      - .Net
+      - PHP
+      - Python
+
+Website vs Webpage
+  - website is static
+    website is dynamic
+    website is kind of url (www.domain.com)
+    website is multiple webpages
+  - webpage is dynamic
+    webpage is static
+    webpage is about description about the website
+    webpage is single page
+
+  Webpage is a single document/file
+  Website is a collection of webpages
+
+  Domain Name
+    www.<domain name>.com / .in / .co.in / .co 
+
+
+HTML TAG (aka elements aka containers)
+  Syntax:
+    <TAG NAME> => opening tag
+      ....
+    </TAG NAME> => closing tag
+
+  Types / Classification:
+    - Paired Tag
+      <TAG NAME> => opening tag
+        .... content / data / text / child tag / child container
+      </TAG NAME> => matching closing tag
+
+    - Unpaired Tag (aka Self Closing Tag)
+      <TAG NAME> => only have the opening tag / no need for the closing tag
+
+
+Basic Coding Standards
+  - Naming Conventions
+    - folder names / file names / variable names
+      - should do?
+        - start with alphabets and if required you can start the name as with symbol "_" (underscore)
+        - give meaningful names and related to the project that you are working on
+        - use cases:
+          lower camel case:
+            janBatchOnline2023
+          upper camel case:
+            JanBatchOnline2023
+          lowercase:
+            janbatchonline2023
+          uppercase:
+            JANBATCHONLINE2023
+          dash case:
+            jan-Batch-Online-2023
+            Jan-Batch-Online-2023
+            jan-batch-online-2023
+            JAN-BATCH-ONLINE-2023
+          snake case:
+            jan_Batch_Online_2023
+            Jan_Batch_Online_2023
+            jan_batch_online_2023
+            JAN_BATCH_ONLINE_2023
+      - should not do?
+        - dont give random names
+        - dont give test1, project1, assignment1
+        - dont start the folder or file name with numbers
+          eg: 1stproject (not to do this way)
+
+  - Code Indents
+    - Spaces on each line
+      - 1 tab space
+        - usually equal 4 spaces
+        - but can be configured to 2 space or 8 space....
+
+  - Organise the Project Folder
+    - website/web page
+      - html files
+      - css files/styles
+      - image files (pictures)
+      - js files/scripts
+    - do not keep all different files in the main project folder
+      "Jan-Batch" (folder name)
+        - css
+          all your .css files can go here...
+        - images or img or image or pictures
+          all your image files can go here...
+        - js
+          all your .js files can go here...
+        index.html
+        about.html
+        contact.html
+
+#2 Assignment:
+  - #1 Process (Create a HTML file and Open in the Browser)
+    - Open your VS Code
+      - File -> New Text File
+        - choose your folder of your choice where you want to save the project and project files
+          - create the project folder
+            - in the "File Name" box, type the HTML file name like "filename" and from the "File Type" dropdown select HTML
+            - click on Save button
+      - Open a browser (Chrome, Edge, Firefox, Safari, etc.,)
+        - click on CTRL + O (alphabet)
+          - choose the folder and the file (HTML) which you want to open and double click to open in the browser
+      OR
+      - In the existing browser
+        - click on add new tab to open a new tab
+          - click on CTRL + O (alphabet)
+            - choose the folder and the file (HTML) which you want to open and double click to open in the browser
+      OR
+      - in VS Code
+        - click on CTRL + F5 (if in laptop, CTRL + fn + F5)
+          - first time, it will ask for choice of web app (browser)
+            - click to open your file in that chosen browser
+
+  - #2 Process (Existing HTML file to open in VS Code and in Browser)
+    - click on start menu in your system
+      - type "visual studio..." and open the "App"
+        - click on CRTL + O (alphabet) or File -> Open File
+          - navigate to the project folder and select the file to open
+            - and start making changes
+    - Open a browser (Chrome, Edge, Firefox, Safari, etc.,)
+        - click on CTRL + O (alphabet)
+          - choose the folder and the file (HTML) which you want to open and double click to open in the browser
+      OR
+      - In the existing browser
+        - click on add new tab to open a new tab
+          - click on CTRL + O (alphabet)
+            - choose the folder and the file (HTML) which you want to open and double click to open in the browser
+      OR
+      - in VS Code
+        - click on CTRL + F5 (if in laptop, CTRL + fn + F5)
+          - first time, it will ask for choice of web app (browser)
+            - click to open your file in that chosen browser
+
+  - Submit your HTML file in the official WhatsApp group
+
+- In the next session, we are going to create an account in "GitHub"...
+
+
+NOTES: 02-02-2023
+
+SEO
+  - Search Engine Optimization
+    - Improving the website rank, which can push to the top in the search engines
+
+    - According to SEO
+      - in each of your HTML file
+        - you should have only 1 H1 tag
+
+Deprecated
+  - Marked for deletion, and subject to removed/deleted in the next version
+
+  - Windows
+    - 8, 8.1, 10 (works), 11 (works)
+    - Vista, 95, 98, 2000, 2010, XP, 7
+    - Server
+
+HTML Entities List:
+  https://unicode-table.com/en/html-entities/
+
+HTML Attributes:
+  - Paired Attribute
+    Syntax:
+      attribute="behaviour"
+        it will come as name & value pairs
+  - Unpaired Attribute (aka Self closing)
+    Syntax:
+      attribute
+        it will come only with name of the attribute
+
+  - Core (Pre-Defined / Built-in)
+    - which can be used in all the HTML tags
+    - 4 Core Attributes
+      - id
+      - class
+      - style
+      - title
+  - Generic (Pre-Defined / Built-in)
+    - depending on the nature of the HTML tag
+    - eg:
+      align
+      width
+      height
+      alt
+      src
+      border
+      cellspacing
+      etc.,
+  - Custom (Customized)
+    - user created attributes
+    - will always start with "data-":
+      data-<attribute name>
+
+"default"
+  existing, not specified
+
+- When you come on next Tuesday:
+  - have your github account ready
+    - go to github.com
+
+
+NOTES: 07-02-2023
+
+HTML
+  - img
+    - src
+      - path
+        - relative path
+          - starts from current context
+        - full path
+          - full location of the picture/image (usually comes with the domain name + folder structure + file name)
+        - absolute path
+    - alt
+      - mostly by the SEO + Content Writer
+
+  - measurements
+    px
+      - you just need to use the value and not value with "px"
+        eg: use it like
+          width="100"
+    %
+      - you should use value and the % symbol together
+        eg: use it like
+          width-"50%"
+
+Generic Internet
+  - Protocols
+    http / https
+      any website has to be routed through these protocols
+    file
+      any file should be loaded
+    ftp
+      any file uploaded to a server has to be routed through this protocol
+    smtp
+      to send any email out
+    pop3
+      to receive any email
+    imap
+  - DNS
+    Domain Naming Services
+      - name of the website/webpage
+        www.<domain name>.com / .co / .co.in / .me / .info / .gov / .ac.in / .in
+          http : 80
+          https : 
+          CNAME
+            - sub domains
+          A
+            - to allow emails in your domain name
+          TXT
+  - Domain
+    - name of the website/webpage
+        www.<domain name>.com / .co / .co.in / .me / .info / .gov / .ac.in / .in
